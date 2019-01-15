@@ -1,0 +1,8 @@
+embeddings {
+    tensor_name: 'embeddings/decoder/embedding_decoder'
+    metadata_path: 'data/vocab.bpe.from'
+}
+embeddings {
+    tensor_name: 'embeddings/encoder/embedding_encoder'
+    metadata_path: 'data/vocab.bpe.from'
+}
