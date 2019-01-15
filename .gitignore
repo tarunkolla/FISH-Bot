@@ -2,3 +2,4 @@
 **/*.to
 **/*.from
 **/translate.ckpt-*
+**/*.pickle
