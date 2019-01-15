@@ -13,7 +13,7 @@ FISH bot is a generic chat bot that is a sequentional model build using a Bidire
 #### Example 4:
 ![Conversation 4](https://github.com/tarunkolla/FISHBot/blob/master/res/convo4.png)
 
-## Othr info:
+## Other info:
 
 * Model trained on Linux machine with 8GB RAM, 8GB P4000 Nvedia GPU and 8 core processor.
 * Total number of steps trained: 75K
